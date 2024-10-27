@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Hi New folder push ti git 
-=======
-khjkgj
-kugjh
-
->>>>>>> 1a4d9b137a056b53049516a6bc7b9d514accced3
